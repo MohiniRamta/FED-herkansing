@@ -16,13 +16,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
-
+  Mohini Ramtahalsing
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Tussen blauw een rood. Ik heb wel wat meer ervaring met coderen, maar ik ben er in mijn mening nog steeds niet heel goed in, maar wil wel het meest voor rood gaan als uitdaging. 
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Responsive
  
 </details>
 
@@ -36,15 +35,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+ [ link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp](https://www.paradiso.nl/en)
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/paradisohomepage.png" width="375px" alt="Paradiso homepage">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/paradisonews.png" width="375px" alt="Nieuwspagoina van Paradiso">
  
 </details>
 
@@ -57,6 +56,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  Tijdens het analyseren van de website kwam ik er meteen achter dat ze website niet heel toegankelijk is voor mensen met mobiele beperkingen. Want het navigeren door de website met alleen toetsenbord is niet duidelijk. De feedback op de focus state is niet goed te zien. De achtergrond van de website is blauw, maar de focus is ook een net lichtere kleur blauw. Dit zorgt ervoor dat je niet goed ziet waar je op staat tijdens het navigeren. 
+  <img src="readme-images/focusstate.png" width="375px" alt="Afbeelding van de focusstate die fout is">
+  De tekst is wel te lezen met blurred vison door het sterke kleur contrast. Alle vormen van kleurenblind kunnen moeiteloos deze site gebruiken. Tijdens het gebruik van Narrator kwam ik er achter dat de Voice over alles goed uitlegt, alleen als je door de website tabt, gaat hij eerst het hele menu op lezen voordat je de pagina kan gebruiken, ookal heb je niet op menu geklikt. Dus dat moet veranderen. Ook ben ik er tijdens het gebruik van de checklist achter gekomen dat ze in de code bijna geen alt attribute gebruiken voor images
+
+  Ook tijdens het responsive kijken, kwam ik erachter dat de titel tekst half van het scherm gaat als je op moblie schermen zit. 
 
 </details>
 
