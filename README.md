@@ -43,7 +43,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/paradisonews.png" width="375px" alt="Nieuwspagoina van Paradiso">
+  <img src="readme-images/paradisonieuws.png" width="375px" alt="Nieuwspagina van Paradiso">
  
 </details>
 
