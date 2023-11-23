@@ -16,13 +16,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
-
+  Mohini Ramtahalsing
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Tussen blauw een rood. Ik heb wel wat meer ervaring met coderen, maar ik ben er in mijn mening nog steeds niet heel goed in, maar wil wel het meest voor rood gaan als uitdaging. 
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Responsive
  
 </details>
 
@@ -36,15 +35,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+ [ Paradiso](https://www.paradiso.nl/en)
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Homepagina/ What's on
+  <img src="readme-images/paradisohomepage.png" width="375px" alt="Paradiso homepage">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  News pagina
+  <img src="readme-images/paradisonieuws.png" width="375px" alt="Nieuwspagina van Paradiso">
  
 </details>
 
@@ -57,6 +56,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  Tijdens het analyseren van de website kwam ik er meteen achter dat ze website niet heel toegankelijk is voor mensen met mobiele beperkingen. Want het navigeren door de website met alleen toetsenbord is niet duidelijk. De feedback op de focus state is niet goed te zien. De achtergrond van de website is blauw, maar de focus is ook een net lichtere kleur blauw. Dit zorgt ervoor dat je niet goed ziet waar je op staat tijdens het navigeren.
+  De tekst is wel te lezen met blurred vison door het sterke kleur contrast. Alle vormen van kleurenblind kunnen moeiteloos deze site gebruiken. Tijdens het gebruik van Narrator kwam ik er achter dat de Voice over alles goed uitlegt, alleen als je door de website tabt, gaat hij eerst het hele menu op lezen voordat je de pagina kan gebruiken, ookal heb je niet op menu geklikt. Dus dat moet veranderen. Ook ben ik er tijdens het gebruik van de checklist achter gekomen dat ze in de code bijna geen alt attribute gebruiken voor images
+
+  
+  <img src="readme-images/focusstate.png" width="375px" alt="Afbeelding van de focusstate die fout is">
+  Ook tijdens het responsive kijken, kwam ik erachter dat de titel tekst half van het scherm gaat als je op moblie schermen zit. 
+  
 
 </details>
 
@@ -68,7 +74,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdownschetshome.png" width="375px" alt="breakdown van de hele home pagina">
+   <img src="readme-images/breakdownschetsnews.png" width="375px" alt="breakdown van de hele news pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
@@ -88,25 +95,25 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik ben goed begonnen met het maken van mn html. Dat ging best wel soepel, ik kon makkelijk gebruik maken van sections en ul's. Door al de structuur te hebben, heb ik het veel makkelijker gemaakt voor mezelf om goed te stijlen. Ik had wel nog een beetje moeite met het uitvogelen van van de responsive grid naar image carousel. 
 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
+  samen met je groepje opstellen (ik ben een herkanser, dus ik heb geen contact met de klas. Ook weet ik de namen niet van alle mensen. Dus ik noem ze in mijn verslag even student 1,2 en 3. Ik heb wel hun vragen opgeschreven. 
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | student 1      | student 2          | student 3    | Mohini        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  |  kijken of html werkt  | vragen over github            | Zal ik responsive of service plane  | hoe moet ik de grid goed vormgeven    |
+  | en dat ook nog | responsive of service plane | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+ Ik heb tijdens de meeting mijn website even laten zien, en dit is wat ik uit het gesprek heb gehaald. 
 
-  - punt 1
-  - punt 2
-  - nog een punt
+  - Ik kan het simpel houden. Ik hoef niet per se een img carousel in mijn website te zetten
+  - Ik kan ervoor kiezen om 1 image te laten zien naarmate de site kleiner wordt
+  - Ik ben goed op weg, ik ga gewoon door met werken
   - ...
 
 </details>
