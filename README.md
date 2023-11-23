@@ -95,25 +95,25 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik ben goed begonnen met het maken van mn html. Dat ging best wel soepel, ik kon makkelijk gebruik maken van sections en ul's. Door al de structuur te hebben, heb ik het veel makkelijker gemaakt voor mezelf om goed te stijlen. Ik had wel nog een beetje moeite met het uitvogelen van van de responsive grid naar image carousel. 
 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
+  samen met je groepje opstellen (ik ben een herkanser, dus ik heb geen contact met de klas. Ook weet ik de namen niet van alle mensen. Dus ik noem ze in mijn verslag even student 1,2 en 3. Ik heb wel hun vragen opgeschreven. 
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | student 1      | student 2          | student 3    | Mohini        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  |  kijken of html werkt  | vragen over github            | Zal ik responsive of service plane  | hoe moet ik de grid goed vormgeven    |
+  | en dat ook nog | responsive of service plane | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+ Ik heb tijdens de meeting mijn website even laten zien, en dit is wat ik uit het gesprek heb gehaald. 
 
-  - punt 1
-  - punt 2
-  - nog een punt
+  - Ik kan het simpel houden. Ik hoef niet per se een img carousel in mijn website te zetten
+  - Ik kan ervoor kiezen om 1 image te laten zien naarmate de site kleiner wordt
+  - Ik ben goed op weg, ik ga gewoon door met werken
   - ...
 
 </details>
