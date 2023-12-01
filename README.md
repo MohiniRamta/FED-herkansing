@@ -99,7 +99,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen (ik ben een herkanser, dus ik heb geen contact met de klas. Ook weet ik de namen niet van alle mensen. Dus ik noem ze in mijn verslag even student 1,2 en 3. Ik heb wel hun vragen opgeschreven. 
+  samen met je groepje opstellen (ik ben een herkanser, dus ik heb geen contact met de klas. Ook weet ik de namen niet van alle mensen. Dus ik noem ze in mijn verslag even student 1,2 en 3. Ik heb wel hun vragen opgeschreven. )
 
   | student 1      | student 2          | student 3    | Mohini        |
   | ---            | ---                | ---          | ---              |
@@ -128,25 +128,24 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik heb gewerkt aan de tweede pagina, en heb een beetje de rest gepositioneerd. Ik wil toch het grid goedkrijgen, maar dat is moeilijker dan verwacht. Ik wil dat graag vragen tijdens mijn voortgangsgesprek.
 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
+  samen met je groepje opstellen (ik ben een herkanser, dus ik heb geen contact met de klas. Ook weet ik de namen niet van alle mensen. Dus ik noem ze in mijn verslag even student 1,2 en 3. Ik heb wel hun vragen opgeschreven. )
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | student 1      | student 2          | student 3    | Mohini      |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+  | Problemen met github  | en dit             | en ik dit    | Ik wil toch hetzelfde grid als in de site    |
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
+Ik heb van donna hulp gehald met het opzetten van de grid, ik ga het zelf toepassen in mijn site. Ook heeft ze me een tip gegeven over hoe ik met een simpele javascript functie intersect, ervoor kan zorgen dat de tekst in beeld vliegt tijdens het scrollen. Ik ga nu verder met het responsive maken van mijn 2e pagina, en het maken van mijn hamburgermenu (micro interactie)
+  - Grid ga ik nu fixen en responsive maken
+  - Intersect ga ik toevoegen
+  - Micro interactie maken
 - ...
 
 </details>
