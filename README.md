@@ -78,10 +78,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
    <img src="readme-images/breakdownschetsnews.png" width="375px" alt="breakdown van de hele news pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/breakdownschetsmenu" width="375px" alt="breakdown van een dynamisch deel">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+
 
 </details>
 
@@ -174,26 +173,23 @@ Ik heb van donna hulp gehald met het opzetten van de grid, ik ga het zelf toepas
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik heb deze week alles helemaal goed gepositioneerd, en alle html content afgemaakt. Alles staat nu goed, op de juiste plek. Dus deze week ga ik alles heel mooi responsive maken, en ik wil ook nog wat surface plane effecten toevoegen, want dat vind ik wel een leuke uitdaging. 
 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
+  Als herkanser hoefde ik niet lang te blijven, dus ik heb zelf maar 1 vraag
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Mohini      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | Hoe kan ik het best de 2e pagina met dezefde css vormgeven  | vraag over footer             | ...    | ....   |
+  | en dat ook nog | dit als er tijd is | ... | .... |
   | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+ Ik heb mijn vraag gesteld, en ik kreeg het antwoord van het gebruik van een attribute selector. 
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Alles gaat prima en soepel, ik ga nog een goede toegankelijkheidstest doen als ik verder ben met de states. 
 
 </details>
 
@@ -235,8 +231,8 @@ Ik heb van donna hulp gehald met het opzetten van de grid, ik ga het zelf toepas
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
+  1. [bron 1](https://codepen.io/d0nnaz/pen/PoVyNQp?editors=1100)https://codepen.io/d0nnaz/pen/PoVyNQp?editors=1100 Donna's code voor de layout van de grid op de homepage.
+  2. [bron 2](https://codepen.io/shooft/pen/mdayVeo)https://codepen.io/shooft/pen/mdayVeo Ik heb wat code gehaald uit de grid oefening van Sanne.
   3. ...
 
 </details>
