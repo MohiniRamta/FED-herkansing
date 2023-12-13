@@ -1,18 +1,20 @@
 // JavaScript Document
 console.log("hi");
 
-var eersteStreepjesButton = document.querySelector("nav li:nth-of-type(1) button");
 
-eersteStreepjesButton.onclick = eersteStreepjesButtonKlik;
+var menubutton = document.querySelector("nav:first-of-type button");
+var menu = document.querySelector("nav:nth-of-type(2");
 
-function eersteStreepjesButtonKlik() {
-  if (eersteStreepjesButton.ariaExpanded == "false") {
-    eersteStreepjesButton.ariaExpanded = "true"
-  }
-  else {
-    eersteStreepjesButton.ariaExpanded = "false"
-  }
+menubutton.onclick = toggleMenu;
+
+function toggleMenu() {
+  menu.classList.toggle("toonMenu");
+  console.log("open menu werkt");
 }
+
+
+// Ik heb dit stukje code van Donna, het is een intersect functie die detecteerd wanner er text in beeld komt, en er dan voor zorgt dat die tekst word geanimeerd.
+// https://codepen.io/d0nnaz/pen/qBgJNON
 
 document.addEventListener("DOMContentLoaded", function() {
     const options = {
@@ -23,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     const observer = new IntersectionObserver(handleIntersect, options);
 
-    const listItems = document.querySelectorAll('section.animation li');
+    const listItems = document.querySelectorAll('section:last-of-type li');
 
     listItems.forEach(item => {
       observer.observe(item);
@@ -38,3 +40,5 @@ document.addEventListener("DOMContentLoaded", function() {
       });
     }
   });
+
+
