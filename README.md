@@ -78,7 +78,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
    <img src="readme-images/breakdownschetsnews.png" width="375px" alt="breakdown van de hele news pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="images/breakdownschetsmenu" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="images/breakdownschetsmenu.png" width="375px" alt="breakdown van een dynamisch deel">
 
 
 
@@ -103,7 +103,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | student 1      | student 2          | student 3    | Mohini        |
   | ---            | ---                | ---          | ---              |
   |  kijken of html werkt  | vragen over github            | Zal ik responsive of service plane  | hoe moet ik de grid goed vormgeven    |
-  | en dat ook nog | responsive of service plane | nog een punt | dit wil ik zeker |
+  |  |  |  |  |
   | ...            | ...                | ...          | ...              |
 
 
@@ -135,8 +135,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   | student 1      | student 2          | student 3    | Mohini      |
   | ---            | ---                | ---          | ---              |
-  | Problemen met github  | en dit             | en ik dit    | Ik wil toch hetzelfde grid als in de site    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | Problemen met github  |             |    | Ik wil toch hetzelfde grid als in de site    |
+  |  |  |  | |
   | ...            | ...                | ...          | ...              |
 
 
@@ -161,6 +161,18 @@ Ik heb van donna hulp gehald met het opzetten van de grid, ik ga het zelf toepas
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
+  In mijn eerste bevindingen was ik hier achter gekomen:
+  -Want het navigeren door de website met alleen toetsenbord is niet duidelijk (focus state)
+  - in de code bijna geen alt attribute gebruiken voor images
+  - De screenreader leest teveel op
+
+    Ik heb in mijn site die dingen zo goed mogelijk geprobeerd op te lossen.
+    - Ik heb een focus state toegevoegd van een witte rand om de knoppen heen. Het is duidelijker te zien, en het pas in het thema. Ik had persoonlijk nog wel gewild dat ze er mooier omheen zaten, maar ik wist niet zo goed hoe ik dat moest fixen.
+    - Ik heb bij elke image in mijn html pagina's een alt attribute toegevoegd
+    - Ook heb ik er voor gezorgd dat je tijdens het tabben, en een screenreader gebruiken, niet meer door het hele menu moet gaan terwijl die niet open is.
+    - Ook ben ik er tijdens het coderen achter gekomen dat er heel veel tekst over afbeeldingen heen staat, wat niet zo toegeankelijk is voor sommige mensen. Dus ik heb alle tekst over een plaatje een achtergrond gegeven, zodat het contrast beter is.
+    - Nog een ding waar ik tijdens het coderen achter kwam, wat ik heb gemist in mijn eerste onderzoek, was de uitleg tekst van de artiesten voldeden niet aan de Accessibility contrast, dus ik heb die tekst beter contrast gegeven.
+
 </details>
 
 
@@ -182,7 +194,7 @@ Ik heb van donna hulp gehald met het opzetten van de grid, ik ga het zelf toepas
   | Mohini      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
   | Hoe kan ik het best de 2e pagina met dezefde css vormgeven  | vraag over footer             | ...    | ....   |
-  | en dat ook nog | dit als er tijd is | ... | .... |
+  |  |  | ... | .... |
   | ...            | ...                | ...          | ...              |
 
 
@@ -203,19 +215,22 @@ Ik heb van donna hulp gehald met het opzetten van de grid, ik ga het zelf toepas
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+ik heb voor mijn Frontend Development herkansing de website van Paradiso gemaakt. Ik ben best wel tevreden met mijn website. Vorig jaar had ik de site van Dutch Comiccon geprobeerd te maken, maar als ik daar nu op terug kijk is dat echt een hele slecht gemaakte site. Ik heb nu iets meer ervaring met html en css. Zelfs Javascript kan ik nu best wel oke. 
+  
+  <img src="readme-images/paradiso4.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/paradiso5.png" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Ik heb geleerd om met behulp van media querys een compleet andere layout te kunnen maken. Ik heb vorig jaar voor de surface plane gekozen, dus ik heb dit helemaal nooit gebruikt. Ik vind het echt een toffe en handige functie, die ik zeker in de toekomst ga gebruiken. 
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/paradiso1.png" width="375px" alt="top">
+  <img src="readme-images/paradiso2.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  Ik had eenn beetje moeite met het maken van het hamburger menu. Ik had uiteindelijk wat code gebruikt van sanne uit een oefening, maar die bleek ook niet te werken in mijn website. Dit vind ik erg jammer, want het knopje blijft nu gewoon drie streepjes. 
+  <img src="readme-images/paradiso3.png" width="375px" alt="bummer">
 </details>
 
 
@@ -233,6 +248,13 @@ Ik heb van donna hulp gehald met het opzetten van de grid, ik ga het zelf toepas
 
   1. [bron 1](https://codepen.io/d0nnaz/pen/PoVyNQp?editors=1100)https://codepen.io/d0nnaz/pen/PoVyNQp?editors=1100 Donna's code voor de layout van de grid op de homepage.
   2. [bron 2](https://codepen.io/shooft/pen/mdayVeo)https://codepen.io/shooft/pen/mdayVeo Ik heb wat code gehaald uit de grid oefening van Sanne.
-  3. ...
+  3. https://www.w3schools.com/css/css_overflow.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors
+https://www.w3schools.com/css/css3_mediaqueries.asp
+https://www.w3schools.com/css/css3_mediaqueries.asp
+https://w3schools.com/howto/howto_css_image_responsive.asp
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://dlo.mijnhva.nl/content/enforced/536499-FDMCI-2000FED121-DMCI-CMD-2324-2/FED%2023-24%20-%20Blok%202%20-%20Oefening%20grid.pdf
+https://codepen.io/shooft/pen/LYMEWVm
+https://css-tricks.com/almanac/properties/s/scrollbar/  
 
 </details>
